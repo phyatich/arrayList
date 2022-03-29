@@ -1,0 +1,15 @@
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/arrayList/bin/Debug/net5.0/arrayList.deps.json
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/arrayList/bin/Debug/net5.0/arrayList.runtimeconfig.json
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/arrayList/bin/Debug/net5.0/arrayList.runtimeconfig.dev.json
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/arrayList/bin/Debug/net5.0/arrayList.dll
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/arrayList/bin/Debug/net5.0/ref/arrayList.dll
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/arrayList/bin/Debug/net5.0/arrayList.pdb
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/arrayList/obj/Debug/net5.0/arrayList.csproj.AssemblyReference.cache
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/arrayList/obj/Debug/net5.0/arrayList.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/arrayList/obj/Debug/net5.0/arrayList.AssemblyInfoInputs.cache
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/arrayList/obj/Debug/net5.0/arrayList.AssemblyInfo.cs
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/arrayList/obj/Debug/net5.0/arrayList.csproj.CoreCompileInputs.cache
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/arrayList/obj/Debug/net5.0/arrayList.dll
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/arrayList/obj/Debug/net5.0/ref/arrayList.dll
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/arrayList/obj/Debug/net5.0/arrayList.pdb
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/arrayList/obj/Debug/net5.0/arrayList.genruntimeconfig.cache
